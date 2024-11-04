@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhukah&label=Profile%20views&color=0e75b6&style=flat" alt="madhukah" /> </p>
 
-- 🔭 I’m currently working on **Test 01**
+- 🔭 I’m currently working on **Create mern-blog-App**
 
-- 🌱 I’m currently learning **C | C++ | Python**
+- 🌱 I’m currently learning **C | C++ | Python | Js**
 
 - 👯 I’m looking to collaborate on **Test 02**
 

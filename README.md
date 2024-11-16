@@ -1,5 +1,5 @@
-<img align="center" src="https://camo.githubusercontent.com/94094e55c337f3d7a78bb9625f598c8fec8a5b5f1b32da69cfcc6c9606cf5937/68747470733a2f2f6d656469612e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966" alt="Banner" />
 <h1 align="center">Hi 👋, I'm Madhuka</h1>
+<img align="center" src="https://camo.githubusercontent.com/94094e55c337f3d7a78bb9625f598c8fec8a5b5f1b32da69cfcc6c9606cf5937/68747470733a2f2f6d656469612e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966" alt="Banner" />
 <h3 align="center">I'm a software engineering student at the Open University in Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhukah&label=Profile%20views&color=0e75b6&style=flat" alt="madhukah" /> </p>

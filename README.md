@@ -19,18 +19,9 @@ Here’s a more visually appealing way to showcase your GitHub stats:
 
 ### 📊 **GitHub Stats**  
 
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhukaH&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhukaH&theme=dark&hide_border=false" alt="GitHub Streak" width="48%">  
-</div>  
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhukaH&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="60%">  
-</div>  
-
----
-
-This arrangement centers the images and balances the layout, making it more professional and easier to view.
+![](https://github-readme-stats.vercel.app/api?username=MadhukaH&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MadhukaH&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhukaH&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=MadhukaH&icon=0&color=0)](https://visitcount.itsvg.in)
 
